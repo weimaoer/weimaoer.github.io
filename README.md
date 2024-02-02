@@ -21,3 +21,12 @@ go
 ##文档仓库
 ##图片仓库
 ##表格仓库
+<details>
+<summary>折叠</summary>
+
+| 序号 | 语言 |
+|-----:|-----------|
+|     1| JavaScript|
+|     2| Python    |
+|     3| SQL       |
+</details>
