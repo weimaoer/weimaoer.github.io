@@ -1,7 +1,7 @@
 ## 编译器
 2024年2月2日Markdown更新
 ```markdown
-
+$`\sqrt{3x-1}+(1+x)^2`$
 ```
 ## 日志
 <details>
