@@ -1,4 +1,4 @@
-## 欢迎访问元数据仓库
+## 个人元数据仓库
 
 You can use the [editor on GitHub](https://github.com/weimaoer/weimaoer.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
